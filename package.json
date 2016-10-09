@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "react-timer",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "React timer app",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
@@ -34,6 +34,7 @@
     "karma-webpack": "^1.7.0",
     "mocha": "^2.4.5",
     "node-sass": "^3.8.0",
+    "react-addons-test-utils": "^0.14.7",
     "sass-loader": "^4.0.0",
     "script-loader": "^0.7.0",
     "style-loader": "^0.13.1",
